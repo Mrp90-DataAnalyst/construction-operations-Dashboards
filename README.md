@@ -4,7 +4,7 @@ Affordable, Excel-powered operational reporting for small and mid-size construct
 
 ## 🔗 Live Demo
 
-**[View the dashboards →](https://github.com/Mrp90-DataAnalyst/construction-operations-dashboards/)**
+**[View the dashboards →](https://mrp90-dataanalyst.github.io/construction-operations-dashboards//)**
 
 > All dashboards use anonymized sample data for demonstration purposes.
 
